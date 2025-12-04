@@ -1,3 +1,1 @@
 # prevod-stupnu
-
-maty bodnar
